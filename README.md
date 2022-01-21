@@ -36,6 +36,6 @@ arkaprovo.acharya@gmail.com<br>
 9903163710
 
 # My Stats :muscle:
-![Logo](https://github-readme-stats.vercel.app/api?username=arkaprovo02&count_private=true&show_icons=true&theme=radical)
-![Logo](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprovo02&show_icons=true)
-![Logo](https://github-readme-streak-stats.herokuapp.com/?user=arkaprovo02&show_icons=true)
+![Logo](https://github-readme-stats.vercel.app/api?username=arkaprovo02&count_private=true&show_icons=true&theme=chartreuse-dark)
+![Logo](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprovo02&show_icons=true&theme=chartreuse-dark)
+![Logo](https://github-readme-streak-stats.herokuapp.com/?user=arkaprovo02&show_icons=true&theme=chartreuse-dark)

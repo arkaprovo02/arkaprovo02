@@ -35,7 +35,7 @@ I am currently a second year undergrad of Electrical Engineering at Jadavpur Uni
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprovo02)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaprovo02&show_icons=true&count_private=false)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaprovo02&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arkaprovo02)  
 
